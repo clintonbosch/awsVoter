@@ -1,0 +1,7 @@
+aws.access.key=
+aws.secret.key=
+aws.instance.ami=ami-f0b11187
+aws.instance.type=t2.micro
+vote.minimum.delay=2
+vote.maximum.delay=60
+vote.user.data=curl 'http://blabla.com/competition.jsp' --data 'action=like&post_id=91'
